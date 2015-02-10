@@ -1,5 +1,5 @@
 {
-  "name": "loopback-datasource-juggler-connect",
+  "name": "connect-juggler",
   "version": "0.0.3",
   "description": "Loopback Datasource Juggler session store for Connect",
   "keywords": [
@@ -10,11 +10,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:faceleg/loopback-datasource-juggler-connect.git"
+    "url": "git@github.com:fungl164/connect-juggler.git"
   },
-  "author": "Michael Robinson <mike@pagesofinterest.net>",
+  "author": "Luis Fung<fungl164@hotmail.com> (taken from Michael Robinson <mike@pagesofinterest.net>)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/faceleg/loopback-datasource-juggler-connect/issues"
+    "url": "https://github.com/fungl164/connect-juggler/issues"
   }
 }
